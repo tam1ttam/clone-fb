@@ -1,0 +1,9 @@
+[submodule "clone-fb-be"]
+	path = clone-fb-be
+	url = https://github.com/tam1ttam/clone-fb-be.git
+[submodule "clone-fb-fe"]
+	path = clone-fb-fe
+	url = https://github.com/tam1ttam/clone-fb-fe.git
+[submodule "clone-fb-hosting"]
+	path = clone-fb-hosting
+	url = https://github.com/tam1ttam/clone-fb-hosting.git
